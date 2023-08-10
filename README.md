@@ -1,2 +1,2 @@
-# deneme-jenkins
-Demo Basic Project for Jenkins
+# maven-jenkins
+Demo Basic Maven Project for Jenkins
